@@ -1,6 +1,4 @@
-Here's a basic `README.md` file for your number guessing game repository:
-
-```markdown
+````markdown
 # Number Guessing Game
 
 A simple number guessing game built with HTML, CSS, and JavaScript. Players guess a randomly generated number and receive real-time feedback on their guesses.
@@ -15,10 +13,12 @@ A simple number guessing game built with HTML, CSS, and JavaScript. Players gues
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/number-guessing-game.git
+   git clone https://github.com/kelvinwaringa/number-guessing-game.git
    ```
+````
 
 2. Navigate to the project directory:
+
    ```bash
    cd number-guessing-game
    ```
